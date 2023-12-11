@@ -90,7 +90,7 @@ section #home .row {
   justify-content: center;
 }
 /* Estilo para dispositivos móveis */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
   #BannerLGPD {
     display: flex;
     flex-direction: column;
@@ -370,7 +370,7 @@ button:active {
 }
 
 /* Estilo para dispositivos móveis */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
   button {
     top: 10px;
     left: 10px;

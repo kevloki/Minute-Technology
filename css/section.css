@@ -516,6 +516,27 @@ header {
     font-size: 5vw;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .container-post img {
+    width: 300px !important;
+    height: 200px !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #BannerLGPD {
+    margin-bottom: 20px !important;
+  }
+
+  .home-skip-button {
+    font-size: 16px; /* Ajuste o tamanho da fonte conforme necessário */
+    padding: 10px 20px; /* Ajuste o preenchimento conforme necessário */
+    margin-top: 20px; /* Ajuste a margem superior conforme necessário */
+  }
+}
+
+
 /*--------------------------------------------------------------
 # FOOTER DA PAGE
 --------------------------------------------------------------*/

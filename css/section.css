@@ -471,8 +471,8 @@ header {
   }
   .home-skip-button {
     text-decoration: none;
-    color: var(--brand-white);
-    background-color: var(--brand-black);
+    color: #18347B;
+    background-color: white;
     padding: 20px 40px;
     font-size: 2.8vw;
     font-weight: 800;

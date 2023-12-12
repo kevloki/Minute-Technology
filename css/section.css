@@ -297,14 +297,16 @@ header {
 
 .main-box-links {
   text-transform: uppercase;
-  font-size: 10px;
-  text-decoration: none;
-  color: var(--brand-black);
   opacity: 0;
   transition: opacity 150ms ease-in-out;
   padding: 10px 20px;
   text-decoration: none;
-  font-weight: 800;
+  color: #000;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 .nav-toggle:checked ~ .main-nav {
